@@ -1,6 +1,9 @@
 [Home]
 We produce and make footwear wash stations. You pay with credit card, put your footwear into machine and get it washed and polished just in minutes. No more dirty sneakers.
 
+[Blog]
+today is good day to clean your shoes
+
 [About us]
 We live in country where it's raining for significant part of year. And tired of everyday footwear care, so started to look for solution and found it.
 
