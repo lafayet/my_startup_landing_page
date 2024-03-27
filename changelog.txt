@@ -1,0 +1,35 @@
+commit 3ce526d628d0d62e3a5c01dc19479ba36d10b5f5
+Author: Dmytro Komsheliuk <dmytro.komsh@gmail.com>
+Date:   Wed Mar 27 13:49:44 2024 +0200
+
+    fill contacts section with real data
+
+commit ed1a1f132cf70538cedb3ec3decdfe4e485f5fbf
+Author: Dmytro Komsheliuk <dmytro.komsh@gmail.com>
+Date:   Wed Mar 27 13:49:09 2024 +0200
+
+    fill about us section with real data
+
+commit 451b58e6c7f6d69b59184cc7d3b165e36effd3f1
+Author: Dmytro Komsheliuk <dmytro.komsh@gmail.com>
+Date:   Wed Mar 27 13:46:44 2024 +0200
+
+    fill home section with real data
+
+commit 906087ca8a59ffb1079b2c0474e651faf97cf58f
+Author: Dmytro Komsheliuk <dmytro.komsh@gmail.com>
+Date:   Wed Mar 27 13:40:24 2024 +0200
+
+    fix landing page structure and added about us section
+
+commit c20f82539472ca51083bb71824281e265549d037
+Author: Dmytro Komsheliuk <dmytro.komsh@gmail.com>
+Date:   Wed Mar 27 13:38:41 2024 +0200
+
+    added contacts section to landing page structure
+
+commit b1be7ed53bcddab3aea0dca43a19a78dae4ff357
+Author: Dmytro Komsheliuk <dmytro.komsh@gmail.com>
+Date:   Wed Mar 27 13:37:10 2024 +0200
+
+    added landing page structure
