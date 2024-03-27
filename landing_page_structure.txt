@@ -1,2 +1,5 @@
 [Home]
 Here will be main info about startup
+
+[About Us]
+Phone and address will be here
