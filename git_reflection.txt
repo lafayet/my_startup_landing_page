@@ -1,0 +1,12 @@
+b1fb24d (HEAD -> master) Merge branch 'feature_blog'
+864b17b (feature_blog) added blog into structure -> maybe good
+9d721df (feature_section) add features -> also not very descriptive
+b1b49b0 add changelog -> not very descriptive
+3ce526d fill contacts section with real data -> probably word "update" as first one should be used
+ed1a1f1 fill about us section with real data -> probably word "update" as first one should be used
+451b58e fill home section with real data -> probably word "update" as first one should be used
+906087c fix landing page structure and added about us section -> no explanation what was wrong and why
+c20f825 added contacts section to landing page structure -> maybe some description why I decided to do this would be helpful
+b1be7ed added landing page structure -> this was good
+
+using standard verbs Add, Update, Merge will increase code quality
