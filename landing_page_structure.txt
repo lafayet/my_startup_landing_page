@@ -14,3 +14,5 @@ We live in country where it's raining for significant part of year. And tired of
 [Contacts]
 Ukraine, Kyiv
 
+[learn]
+Our command is learning DevOps course.
